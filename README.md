@@ -134,5 +134,5 @@ For any queries or collaborations, feel free to reach out to us:
 - **Sambit Kumar Sahoo** - [GitHub](https://github.com/your-github) | [LinkedIn](https://linkedin.com/in/your-linkedin)
 - **Ratikanta Pradhan** - [GitHub](https://github.com/ratikantaPradhan) | [LinkedIn](https://linkedin.com/in/your-linkedin)
 - **Sunami SwayamPrava Mohanty** - [GitHub](https://github.com/your-github) | [LinkedIn](https://linkedin.com/in/your-linkedin)
-- **Atul Anshuman Sahoo** - [GitHub](https://github.com/your-github) | [LinkedIn](https://linkedin.com/in/your-linkedin)
+- **Atul Ansuman Barik** - [GitHub](https://github.com/your-github) | [LinkedIn](https://linkedin.com/in/your-linkedin)
 - **Dharmaraj Pradhan** - [GitHub](https://github.com/your-github) | [LinkedIn](https://linkedin.com/in/your-linkedin)
